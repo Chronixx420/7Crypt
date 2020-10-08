@@ -11,3 +11,9 @@ If you made it here, that means you're interested in Using 7Crypt. So first off,
   
 To start, select the Page you are most interested about or need help with the most. Here's a couple of the most viewed pages:
 
+{% page-ref page="commands.md" %}
+
+{% page-ref page="links.md" %}
+
+{% page-ref page="./" %}
+
